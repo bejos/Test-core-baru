@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Text, Button, HelpIcon, Link } from '@wizswap-libs/uikit'
+import { Text, Button, HelpIcon, Link } from '@pancakeswap-libs/uikit'
 
 const Wrapper = styled.div`
   position: fixed;
